@@ -5,5 +5,5 @@ website
 db.sqlite3
 /static
 .DS_Store
-**/config.py
+config.py
 
