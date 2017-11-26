@@ -1,12 +1,16 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 h1 a {
     color: #0bc0fc;
 }
 body {
     padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
 }
 h1 a {
-    color: #FCA205;
-    font-family: 'Lobster';
+    color: #0bc0fc;
 }
 .page-header {
     background-color: #ff9400;
